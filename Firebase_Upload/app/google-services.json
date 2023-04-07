@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1003937658211",
+    "project_id": "connectfirebase-3e774",
+    "storage_bucket": "connectfirebase-3e774.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003937658211:android:3a5bb8a6baee5f77accf56",
+        "android_client_info": {
+          "package_name": "hcmute.edu.vn.connectfirebase.TranQuocTuan20110595"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003937658211-5ilnq86b43thbirt8fmoaf32584gtcmt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaUYB58XceUPVLGz-3lU3W3_gD3NzHvZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003937658211-5ilnq86b43thbirt8fmoaf32584gtcmt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
